@@ -36,6 +36,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Planning Step 2", "Planning
 		Big Picture.JPG = Big Picture.JPG
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Planning Step 3 - Data Model", "Planning Step 3 - Data Model", "{7A685D1D-298D-4398-B623-DFFFC74535F7}"
+	ProjectSection(SolutionItems) = preProject
+		Mapping the Data.JPG = Mapping the Data.JPG
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Planning Step 4 - UI", "Planning Step 4 - UI", "{1D98106A-A472-4A07-8255-AEA8D8C14654}"
+	ProjectSection(SolutionItems) = preProject
+		Create Prize.JPG = Create Prize.JPG
+		Create Team.JPG = Create Team.JPG
+		Create Tournament.JPG = Create Tournament.JPG
+		Tournament Dashboard.JPG = Tournament Dashboard.JPG
+		Tournament Viewer.JPG = Tournament Viewer.JPG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +57,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AB98BBCF-E272-4867-9F1E-1BADF2534B0E} = {160E355F-D86F-45B4-A328-B668AC8E2A82}
 		{D4641868-1DEB-4719-AD21-3E802148D0BE} = {160E355F-D86F-45B4-A328-B668AC8E2A82}
+		{7A685D1D-298D-4398-B623-DFFFC74535F7} = {160E355F-D86F-45B4-A328-B668AC8E2A82}
+		{1D98106A-A472-4A07-8255-AEA8D8C14654} = {160E355F-D86F-45B4-A328-B668AC8E2A82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FBBCC92C-F188-4A91-9313-EF6664BA4D35}
